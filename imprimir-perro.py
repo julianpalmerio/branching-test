@@ -1,1 +1,2 @@
-print('perro')
+def imprimir_perro():
+    print('perro')
